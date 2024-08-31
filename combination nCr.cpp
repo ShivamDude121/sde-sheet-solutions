@@ -7,3 +7,4 @@ int nCr(int n,int r){
 }
 
 return ans;
+}
